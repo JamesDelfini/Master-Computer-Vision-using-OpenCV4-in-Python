@@ -155,6 +155,6 @@
 ---
 
 > © Rajeev Ratan  
-> [Master Computer Vision]("https://www.udemy.com/master-computer-vision-with-opencv-in-python/" "Master Computer Vision")  
+> [Master Computer Vision]("https://www.udemy.com/master-computer-vision-with-opencv-in-python/") 
 > 
 > *Dennis James Matildo*
