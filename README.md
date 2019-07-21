@@ -154,7 +154,7 @@
 - Masteral in Artificial Intelligence
 ---
 
-© Rajeev Ratan  
-[Master Computer Vision]("https://www.udemy.com/master-computer-vision-with-opencv-in-python/") 
- 
+© Rajeev Ratan   
+[Master Computer Vision]("https://www.udemy.com/master-computer-vision-with-opencv-in-python/")  
+
 *Dennis James Matildo*
