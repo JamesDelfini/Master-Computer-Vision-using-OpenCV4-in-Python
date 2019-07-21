@@ -22,7 +22,10 @@
 - A webcam to implement some of the mini projects
 ---
 #### Description
+<p>
     Welcome to one of the most thorough and well taught courses on OpenCV, where you'll learn how to Master Computer Vision using newest version of OpenCV4 in Python!
+</p>
+
 ---
 #### You will be learning:
 1. The key concepts of Computer Vision & OpenCV (using the newest version OpenCV 4)
@@ -152,6 +155,6 @@
 ---
 
 © Rajeev Ratan  
-[*Master Computer Vision*]("https://www.udemy.com/master-computer-vision-with-opencv-in-python/", "Master Computer Vision")  
+[Master Computer Vision]("https://www.udemy.com/master-computer-vision-with-opencv-in-python/", "Master Computer Vision")  
 
 *Dennis James Matildo*
